@@ -1,0 +1,6 @@
+name: plugin-top
+version: 1.0.0
+author: Spacelaxy
+description: Plugin made for Spacelaxy's PMMP course
+api: [5.0.0]
+main: Spacelaxy\PluginTop\Main
